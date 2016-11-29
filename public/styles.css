@@ -1,13 +1,14 @@
 body{
   text-align: center;
   font-size: 45px;
-  background-color: yellow;
+  background-color: #c0dbb6;
 }
 h1{
-  color: green;
+  color: #5c4966;
+  font-family:monospace;
 }
 ol{
-  float: left;
   text-size: 20px;
-  color: blue;
+  color:#2b3a77;
+  font-family:sans-serif;;
 }
