@@ -1,13 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Noto+Serif|Atomic+Age');
+
 body{
   text-align: center;
   font-size: 45px;
-  background-color: yellow;
+  background-color: #c0dbb6;
+  font-family:'Atomic Age';
 }
 h1{
-  color: green;
+  color: #5c4966;
+  font-family:'Indie Flower';
 }
 ol{
-  float: left;
   text-size: 20px;
-  color: blue;
+  color:#2b3a77;
+  font-family:'Noto Serif';
 }
