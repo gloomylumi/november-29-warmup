@@ -1,0 +1,22 @@
+{
+  "name": "november-29-warmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomylumi/november-29-warmup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloomylumi/november-29-warmup/issues"
+  },
+  "homepage": "https://github.com/gloomylumi/november-29-warmup#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
